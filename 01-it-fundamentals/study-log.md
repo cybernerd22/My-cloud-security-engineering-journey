@@ -1,4 +1,4 @@
-Rules for Maintaining This Log
+**Rules for Maintaining This Log**
 Record actual study time; do not estimate or invent hours.
 Describe what you personally did, not just what you watched or read.
 Record the result of each lab, including failures.
